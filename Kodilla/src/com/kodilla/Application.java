@@ -1,4 +1,5 @@
 package com.kodilla;
+// task 1
 public class Application {
     public static void main(String[] args) {
         String name = "Adam";
